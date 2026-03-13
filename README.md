@@ -32,3 +32,11 @@ streamlit run app.py
 
 The application will open in your browser and allow you to test fraud predictions.
 
+## Dataset
+
+The dataset used in this project can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Download the dataset and place `creditcard.csv` in the project folder before running the application.
+
